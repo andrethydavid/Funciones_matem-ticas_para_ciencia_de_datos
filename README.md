@@ -7,3 +7,4 @@
 * Aprender a leer las matemáticas
 * Entender el dominio y rango de una función
 
+![image](https://github.com/andrethydavid/Funciones_matem-ticas_para_ciencia_de_datos/assets/72534486/37012bf4-4654-42e4-896e-f799562b670e)
